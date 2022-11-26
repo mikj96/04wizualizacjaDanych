@@ -47,4 +47,5 @@ ax.set_xlabel('Rok badania')
 ax.set_ylabel('Cena jabłka')
 ax.xaxis.set_tick_params(rotation = 90)   #kąt indeksów osi x
 ax.yaxis.set_tick_params(rotation = 360)    #kąt indeksów osi y
+
 plt.show()
